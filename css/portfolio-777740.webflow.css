@@ -1195,7 +1195,7 @@ figcaption {
 }
 
 .container-4 {
-  max-width: 2560px;
+  max-width: 3840px;
   clear: none;
   grid-column-gap: 16px;
   grid-row-gap: 16px;
@@ -1339,7 +1339,7 @@ figcaption {
 
 .work-image-copy.cc-work-2 {
   height: 600px;
-  max-width: 2064px;
+  max-width: 3840px;
   background-image: url('../images/portfolio-1---wide.svg');
   background-size: cover;
   margin-bottom: 20px;
